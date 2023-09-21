@@ -6,7 +6,7 @@ l = {
         },
         tip: {
             KR: '[OFFICIAL] MopiMopi ver.20220604 / 해루@모그리',
-            EN: '[OFFICIAL] MopiMopi ver.20220604 / HAERU@Moogle (KR)'
+            EN: '[OFFICIAL] MopiMopi ver.20230921 / Gidedin'
         },
         update: {
             KR: '<div name="row"><div class="c">05/22</div><div class="m">ACTWebSocket으로 더이상 모피모피를 이용하지 마십시오. OverlayPlugin으로 연결하시기 바랍니다.</div></div><div name="row"><div class="c">05/14</div><div class="m">화면이 변경되지 않는 유저들은 캐시 폴더를 삭제하고 다시 실행해 봅니다.</div></div><div name="row"><div class="c">05/14</div><div class="m">OverlayPlugin : ACT 종료 → 시작 → 실행 → %appdata% → Advanced Combat Tracker → OverlayPluginCache → Cache 폴더 삭제 후 ACT 재실행</div></div>',
